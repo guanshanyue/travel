@@ -17,18 +17,18 @@ export default {
   data: function () {
     return {
       swiperOption: {
-        pagination: ".swiper-pagination",
+        pagination: '.swiper-pagination',
         loop: true
       },
       swiperList: [
         {
-          id:1,
+          id: '001',
           imgUrl: 'https://imgs.qunarzz.com/piao/fusion/1804/bd/8e4a1c3f470d3702.jpg_750x200_f1f0a8c7.jpg'
         },
         {
-          id:2,
+          id: '002',
           imgUrl: 'https://imgs.qunarzz.com/piao/fusion/1807/c6/44fce1467be17702.jpg_750x200_406f5fc3.jpg'
-        },
+        }
       ]
     }
   }

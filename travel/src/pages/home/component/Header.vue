@@ -52,6 +52,7 @@ export default {
     width: 1.24rem
     float: right
     text-align: center
+    color: #ffffff
     .atter-icon
       font-size: .2rem
       margin-left: -.04rem
